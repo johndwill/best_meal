@@ -22,6 +22,9 @@ You're looking to help plan a perfect dining experience within a given budget. Y
 * The dishes in the menu.json file may appear in any order.
 * All dollar amounts will be integers.
 
+**Submission Details**
+* Code in any language of your choosing.
+* Please have solutions to me by the end of the day on Monday; if you need a bit more time, just reach out and let me know, and we'll discuss it.
 
 **Scoring**</br>
 
